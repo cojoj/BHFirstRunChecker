@@ -14,6 +14,6 @@ For example, would want to:
 
 The usege of this class is easy-peasy:
 
-* **Copy** `BHFirstRunChecker.h` and `BHFirstRunChecker.h` to your project.
-* **Use** `#import "BHFirstRunChecker.h"`
-* **Call** `[BHFirstRunChecker executeBlockAtTheFirstRun:^firstRunBlock atAnotherRun:^anotherRunBlock]` anywhere you want it.
+1 **Copy** `BHFirstRunChecker.h` and `BHFirstRunChecker.h` to your project.
+2 **Use** `#import "BHFirstRunChecker.h"`
+3 **Call** `[BHFirstRunChecker executeBlockAtTheFirstRun:^firstRunBlock atAnotherRun:^anotherRunBlock]` anywhere you want it.
