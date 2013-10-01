@@ -1,5 +1,5 @@
 //
-//  BHFirtRunChecker.h
+//  BHFirstRunChecker.h
 //  First Run
 //
 //  Created by Mateusz Zając on 01.10.2013.
