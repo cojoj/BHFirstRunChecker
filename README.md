@@ -17,3 +17,7 @@ The usege of this class is easy-peasy:
 1. **Copy** `BHFirstRunChecker.h` and `BHFirstRunChecker.h` to your project.
 2. **Use** `#import "BHFirstRunChecker.h"`
 3. **Call** `[BHFirstRunChecker executeBlockAtTheFirstRun:^firstRunBlock atAnotherRun:^anotherRunBlock]` anywhere you want it.
+
+===
+
+Created by [@cojoj](https://twitter.com/cojoj)
